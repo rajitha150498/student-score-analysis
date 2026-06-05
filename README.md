@@ -39,3 +39,25 @@ A data analysis project using Python and Pandas to analyze student performance a
 
 1. Clone this repo
 2. Install requirements:
+   ```
+   pip install pandas matplotlib
+   ```
+3. Run the analysis:
+   ```
+   python analysis.py
+   ```
+
+## 📁 Project Structure
+
+```
+student-score-analysis/
+│
+├── students.csv            # Raw student score data
+├── analysis.py             # Main analysis script
+├── subject_averages.png    # Chart 1
+├── grade_distribution.png  # Chart 2
+└── top5_students.png       # Chart 3
+```
+
+## 👩‍💻 Author
+Rajitha Reddy Bandari — [GitHub](https://github.com/rajitha150498)
